@@ -54,6 +54,12 @@ Open Hack U 2021 Online Vol.4、[Happy Hacking賞](https://twitter.com/hackujp/s
 ### ゆひ
 
 ### あとりあ
+GitHub : [@Atria64](https://github.com/Atria64)   
+Twitter : [@AtriaSoft](https://twitter.com/AtriaSoft)
+   
+C#好きのプログラマー。よわよわでは主にフロントエンドを担当する。   
+興味のある領域はWeb,Android.  好きな技術はC#,Blazor,Kotlin,Xamarinなど。   
+2021年8月、数学の必修単位を落として留年が確定した。
 
 ### たつお
 
