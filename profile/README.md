@@ -6,7 +6,7 @@
 
 ### AHCHOO! : 2020/12/13~12/18
 [<img src="https://user-images.githubusercontent.com/37332703/102672562-74992d80-41d4-11eb-9337-2eb545748928.png" alt="AHCHOO_img" width="480" height="auto">
-](https://user-images.githubusercontent.com/37332703/102673248-af9c6080-41d6-11eb-86d5-c5152205c934.png)
+](https://drive.google.com/file/d/1VvD_6N5HkhK_lSCLxW5gfK143ZFPoDv9/view)
 
 2020/12/13~12/18にかけて行われた[公立はこだて未来大学学内ハッカソン FunLocks](https://funlocks.github.io/)にて開発。    
 コロナによって周りに気にされるくしゃみをより楽しく。   
