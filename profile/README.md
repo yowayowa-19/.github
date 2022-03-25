@@ -52,6 +52,13 @@ Open Hack U 2021 Online Vol.4、[Happy Hacking賞](https://twitter.com/hackujp/s
 ### あわあわくん
 
 ### ゆひ
+Github : [@yuhi-dosei](https://github.com/yuhi-dosei)  
+Twitter : [@yuhi_dosei](https://twitter.com/yuhi_dosei)  
+
+人間。進捗管理・プロモーション担当  
+興味のある領域はxR,Web,プロダクトマネジメント。 
+技術を用いて変なことをするのが大好きで自分の体を3Dスキャンしたことがある。  
+2019年2月、数学の必修単位を5つ落として留年。  
 
 ### あとりあ
 GitHub : [@Atria64](https://github.com/Atria64)   
