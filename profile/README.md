@@ -50,6 +50,11 @@ Open Hack U 2021 Online Vol.4、[Happy Hacking賞](https://twitter.com/hackujp/s
 ## Members
 
 ### あわあわくん
+Github : [@materialofmouse](https://github.com/materialofmouse)  
+Twitter : [@materialofmouse](https://twitter.com/materialofmouse)  
+
+ハード、アイディア出し担当。Linux,コンテナ,ネットワークに興味がある。
+最近は3Dプリンターやハンダ付けの作業なの物理層を扱うことが多い。さらに、これから溶接にも手をつけようとしており、レイヤーがわからなくなってきた。
 
 ### ゆひ
 Github : [@yuhi-dosei](https://github.com/yuhi-dosei)  
