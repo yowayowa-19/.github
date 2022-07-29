@@ -78,6 +78,6 @@ GitHub : [t4t5u0](https://github.com/t4t5u0)
 Twitter : [@i4mwh4ti4m](https://twitter.com/i4mwh4ti4m)
 
 バックエンド・Webフロント担当．たまに深層学習もやります．
-
+普段はPythonやRustで遊んでいます．
 
 ### よっすー
