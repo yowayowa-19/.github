@@ -81,3 +81,8 @@ Twitter : [@i4mwh4ti4m](https://twitter.com/i4mwh4ti4m)
 普段はPythonやRustで遊んでいます．
 
 ### よっすー
+GitHub : [HiromuYoshida](https://github.com/HiromuYoshida)  
+Twitter : [@Charlotte34342](https://twitter.com/Charlotte34342)  
+
+デザイン全般担当。UI/UX、ロゴ、ビジュアル何でもやります。
+普段はUIとかポスター作ったりしてます。
