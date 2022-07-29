@@ -74,5 +74,10 @@ C#好きのプログラマー。よわよわでは主にフロントエンドを
 2021年8月、数学の必修単位を落として留年が確定した。
 
 ### たつお
+GitHub : [t4t5u0](https://github.com/t4t5u0)
+Twitter : [@i4mwh4ti4m](https://twitter.com/i4mwh4ti4m)
+
+バックエンド・Webフロント担当．たまに深層学習もやります．
+
 
 ### よっすー
