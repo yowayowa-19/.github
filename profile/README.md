@@ -21,7 +21,7 @@ FunLocks、日鉄ソリューションズ賞、エスイーシー賞受賞作品
 [<img src="https://user-images.githubusercontent.com/49768768/159038505-2f6b8ce7-0d17-4027-a0b3-620a7758ad4c.png" alt="ConCat_img" width="480" height="auto">
 ](https://docs.google.com/presentation/d/1prBEBvOJMzugtx2q_N_lFJ7gp-YPW5yxx7rBybCSblE/edit#slide=id.ge8fedd8018_0_69)
 
-2021/08/28~8/29にかけて行われた[spajam 2021第一回 予選](https://hacku.yahoo.co.jp/hacku2021online4/)にて開発。   
+2021/08/28~8/29にかけて行われた[spajam 2021第一回 予選](https://history.spajam.jp/result/)にて開発。   
 猫を飼いたくても買えない人のニーズを満たすため、   
 キーボードの入力を邪魔される行為を猫の本質と捉え、概念的な猫「ConCat」を作成した。
 
