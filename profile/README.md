@@ -47,6 +47,19 @@ Open Hack U 2021 Online Vol.4、[Happy Hacking賞](https://twitter.com/hackujp/s
  - [yowayowa-19/hacku-hardware](https://github.com/yowayowa-19/hacku-hardware)
  - [yowayowa-19/hacku-promotion](https://github.com/yowayowa-19/hacku-promotion)
 
+### Globe : 2022/08/20~08/21
+[<img src="https://user-images.githubusercontent.com/37332703/189609508-24801c31-68de-4fdc-9bc0-a504f3ec4633.png" alt="Globe_img" width="480" height="auto">
+](https://docs.google.com/presentation/d/1MalGUXkGGRjTK-rseZ0rJ8UKuhpzZ9hUwuRIH8xMi1I/edit?usp=sharing)  
+2022/08/20~8/21にかけて行われた[spajam 2022第一回 予選](https://www.spajam.jp/result/)にて開発。  
+地球温暖化を防ぐ活動によって脅かされている猛暑を護るプロダクト。  
+
+SPAJAM2022、第一回 予選、優秀賞受賞作品。  
+
+#### Repos
+- [https://github.com/yowayowa-19/spajam2022-pre-promotion]
+- [https://github.com/yowayowa-19/spajam2022-pre-android]
+- [https://github.com/yowayowa-19/spajam2022-pre-back]
+
 ## Members
 
 ### あわあわくん
